@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/BTCUSD"
+
+        android:title="Currency BTC-USD" />
+    <item
+        android:id="@+id/BTCEUR"
+
+        android:title="Currency BTC-EUR" />
+    <item
+        android:id="@+id/BTCINR"
+
+        android:title="Currency BTC-INR" />
+    <item
+        android:id="@+id/BTCJPY"
+
+        android:title="Currency BTC-JPY" />
+
+
+    <item
+        android:id="@+id/BTCGBP"
+
+        android:title="Currency BTC-GBP" />
+    <item
+        android:id="@+id/BTCAUD"
+
+        android:title="Currency BTC-AUD" />
+
+    <item
+        android:id="@+id/BTCCAD"
+        android:title="Currency BTC-CAD" />
+    <item
+        android:id="@+id/BTCCHF"
+        android:title="Currency BTC-CHF" />
+    <item
+        android:id="@+id/BTCCNY"
+        android:title="Currency BTC-CNY" />
+    <item
+        android:id="@+id/BTCRUB"
+        android:title="Currency BTC-RUB" />
+
+
+</menu>
