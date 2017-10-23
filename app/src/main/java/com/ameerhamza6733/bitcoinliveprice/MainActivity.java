@@ -101,7 +101,6 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void run() {
 
-                // liveScrFramgment.this.mSwipeRefrashLayout.setRefreshing(true);
               intiVolley( CurrencyType);
                 MainActivity.this.handler.postDelayed(this, 10000);
             }
